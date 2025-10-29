@@ -1,110 +1,107 @@
-# Hi there, I'm Sumiya Yasmin 👋
-
-## Full Stack Developer | MERN Enthusiast | Problem Solver
-
-
-I'm a passionate developer who loves **building scalable web applications** and solving complex challenges with efficient code. I enjoy working across the full stack. My focus is on writing **clean, optimized, and performant** software.
+<h2 align="center">Hi there, I'm Sumiya Yasmin 👋</h2>
+<p align="center">💻 Full Stack Developer | MERN Enthusiast | Problem Solver</p>
 
 ---
 
-## 🛠️ Technical Skills
+I'm a passionate **Full Stack Developer** who loves building **scalable and user-friendly web applications**. I enjoy turning ideas into efficient solutions — from elegant frontends to powerful backends.
 
-### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/-C-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+## ⚙️ Tech Stack
 
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![MUI](https://img.shields.io/badge/-MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=flat-square&logo=.net&logoColor=white)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-
-### Data & BI
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-
-### DevOps & Tools
-`Git` `GitHub` `REST APIs` `JWT` `Axios` `React Query` `Postman` `Docker` `Zod` `Entity Framework` `Bootstrap`
+<div align="center">
 
 
-### DSA & Problem Solving
-I am actively learning and applying **Data Structures and Algorithms (DSA)** to build efficient, optimized solutions.
+  <div style="margin-bottom: 16px;">
+    <p><strong>🧠 Languages</strong></p>
+    <p>
+      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-C++-00599C?style=&logo=c%2B%2B&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-C-00599C?style=&logo=c&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Java-ED8B00?style=&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-C%23-239120?style=&logo=c-sharp&logoColor=white"/>
+    </p>
+  </div>
 
-* **Focus Areas:** Time and Space Complexity Analysis, Dynamic Programming, Graph Algorithms, and efficient Data Modeling.
-* **Practice:** Solving problems on platforms like Codeforces and LeetCode to refine algorithmic thinking.
 
----
+  <div style="display: grid;grid-column: 2; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 16px;">
+    <div>
+      <p><strong>🖥️ Frontend</strong></p>
+      <p>
+        <img src="https://img.shields.io/badge/-React-61DAFB?style=&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/-Next.js-000000?style=&logo=next.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=&logo=tailwind-css&logoColor=white"/>
+      </p>
+    </div>
+    <div>
+      <p><strong>⚙️ Backend</strong></p>
+      <p>
+        <img src="https://img.shields.io/badge/-Node.js-339933?style=&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-Express-000000?style=&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=&logo=.net&logoColor=white"/>
+      </p>
+    </div>
+  </div>
 
-## 💻 Projects
+ 
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <div>
+      <p><strong>🗄️ Databases</strong></p>
+      <p>
+        <img src="https://img.shields.io/badge/-MongoDB-47A248?style=&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=&logo=microsoft-sql-server&logoColor=white"/>
+      </p>
+    </div>
+    <div>
+      <p><strong>🧰 DevOps & Tools</strong></p>
+      <p>
+        <img src="https://img.shields.io/badge/-Docker-2496ED?style=&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-Git-F05032?style=&logo=git&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-Postman-FF6C37?style=&logo=postman&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=&logo=power-bi&logoColor=black"/>
+      </p>
+    </div>
+  </div>
 
-### 🌐 Social Media Platform
-**Full-Stack MERN Application** | [GitHub Repo](https://github.com/sumiya-yasmin/link-deen) | [Live Demo](https://link-deen.vercel.app/)
+</div>
 
-A community engagement platform with dynamic content sharing and real-time user interactions.
 
-**Highlights:**
-* Implemented secure **JWT authentication** with refresh tokens.
-* Enabled **real-time interactions** like posts, likes, and comments with optimistic UI updates.
-* Ensured data integrity and type-safety using **TypeScript** and **Zod** across the stack.
+## 🚀 Featured Projects
 
-**Tech Stack:** `React`, `TypeScript`, `Node.js`, `Express`, `MongoDB`, `TailwindCSS`, `React Query`, `Zod`, `JWT`
+### 🌐 [LinkDeen](https://github.com/sumiya-yasmin/link-deen) | [Live Demo](https://link-deen.vercel.app/)
+A MERN-based social media platform with **JWT Auth, real-time UI, and modern design**.  
+`React · TypeScript · Node.js · Express · MongoDB · TailwindCSS`
 
-### 📦 Inventory Management System
-**ASP.NET Core MVC Application** | [GitHub Repo](https://github.com/sumiya-yasmin/InventoryApp)
+### 📦 [Inventory Management System](https://github.com/sumiya-yasmin/InventoryApp)
+An ASP.NET Core MVC app with **CRUD operations** and **automatic stock tracking**.  
+`C# · SQL Server · Entity Framework · Bootstrap`
 
-A comprehensive system for streamlining inventory management and business operations.
-
-**Highlights:**
-* Developed **full CRUD** operations for core business entities (products, suppliers, etc.).
-* Integrated **automatic stock tracking** and sales record management.
-
-**Tech Stack:** `ASP.NET Core MVC`, `C#`, `SQL Server`, `Entity Framework`, `Bootstrap`
-
----
-
-### 🤝 Open-Source Contribution: Appointment Booking System
-**Role:** Backend/Authentication Contributor | [GitHub Repo](https://github.com/bongodev/appointment-booking)
-
-Contributions focused on strengthening user authentication, profile management, and access control.
-
-**Key Contributions:**
-* **Implemented Core Authentication:** Developed the initial **`getCurrentUser` endpoint** and integrated user profile fetching.
-* **Role-Based Access Control (RBAC):** Integrated the **User Role API** and secured frontend routes based on the user's role.
-* **Profile Management:** Added **CRUD functionality** for user profiles and configured the application for global state management.
-
-**Tech Stack:** `Node.js`, `Express`, `MongoDB`, `React Query`, `API Integration`
+### 🤝 [Appointment Booking (Open Source)](https://github.com/bongodev/appointment-booking)
+Contributed to **Auth & RBAC**, implementing user management and access control.  
+`Node.js · Express · MongoDB · React Query`
 
 ---
 
-## ⭐️ Key Skills
-
-* **Problem Solving:** Strong analytical troubleshooting and debugging capabilities.
-* **Communication:** Clear technical documentation and effective stakeholder collaboration.
-* **Teamwork:** Proficient in Agile methodologies and Git/GitHub version control.
-
+## 💡 Strengths
+- Solid foundation in **Data Structures & Algorithms**  
+- Strong analytical and debugging skills  
+- Team-oriented **Git-based** workflows
 
 ---
 
-## 📫 Let's Connect
+## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumiya-yasmin/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rahmansimi3996@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](your-portfolio-url)
+<p align="center">
+  <a href="https://www.linkedin.com/in/sumiya-yasmin/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:rahmansimi3996@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="my-portfolio-url">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
