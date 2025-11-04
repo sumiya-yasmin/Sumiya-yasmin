@@ -98,7 +98,7 @@ Contributed to **Auth & RBAC**, implementing user management and access control.
   <a href="mailto:rahmansimi3996@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-  <a href="my-portfolio-url">
+  <a href="https://sumiya-yasmin-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white"/>
   </a>
 </p>
